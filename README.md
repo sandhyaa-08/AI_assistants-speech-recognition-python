@@ -28,7 +28,7 @@ README.md             # Project documentation
 ⚙️ Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/nexa-ai-assistant.git
+git clone https://github.com/sandhyaa-08/AI_assistants-speech-recognition-python
 
 2. Navigate to the project folder:
 cd nexa-ai-assistant
