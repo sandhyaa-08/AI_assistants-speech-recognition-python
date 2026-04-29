@@ -20,7 +20,7 @@ It uses speech recognition and text-to-speech technologies to interact with the 
 
 📂 Project Structure
 
-nexa_ai_assistant.py   # Main Python file
+AI_spchrecognition.py   # Main Python file
 wake up.wav           # Wake sound file
 README.md             # Project documentation
 
