@@ -31,7 +31,7 @@ README.md             # Project documentation
 git clone https://github.com/sandhyaa-08/AI_assistants-speech-recognition-python
 
 2. Navigate to the project folder:
-cd nexa-ai-assistant
+cd AI_spchrecognition.py
 
 3. Install required libraries:
 pip install SpeechRecognition pyttsx3 playsound
@@ -39,7 +39,7 @@ pip install SpeechRecognition pyttsx3 playsound
 ▶️ Usage
 
 1. Run the Python file:
-python nexa_ai_assistant.py
+python AI_spchrecognition.py
 
 2. Say the wake word:
 Hello Nexa
